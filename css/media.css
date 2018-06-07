@@ -1,0 +1,50 @@
+@media screen and (max-width:992px){
+    
+    .lists{
+        padding-top: 70px;
+    }
+    
+}
+@media screen and (max-width:1200px){
+    .button-group {
+    margin-left: 135px;
+}
+}
+
+@media screen and (max-width:365px){
+    .button-group {
+    margin-left: 70px;
+}
+}
+
+@media screen and (max-width:266px){
+    .button-group {
+    margin-left: 50px;
+}
+}
+
+@media screen and (max-width:375px){
+    #top-contact {
+    background: transparent;
+    height: 100px;
+        
+}
+    
+    .left-side p{
+        display: ;
+        color: black;
+        font-size: 11px;
+        margin-top: 5px;
+    }
+    .right-side{
+      margin-left: -30px;
+    }
+}
+
+@media screen and (max-width:980px){
+   
+    #wrapper{
+        display: none;
+    }
+}
+
